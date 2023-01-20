@@ -1,0 +1,948 @@
+Uri: http://2.gravatar.com/avatar/b924908c213e2d2ef827aaa467b63b11?s=164&d=mm&r=g
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\avatar\b924908c213e2d2ef827aaa467b63b11-1.png
+Content Type: image/jpeg
+
+Uri: http://2.gravatar.com/avatar/b924908c213e2d2ef827aaa467b63b11?s=82&d=mm&r=g
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\avatar\b924908c213e2d2ef827aaa467b63b11.png
+Content Type: image/jpeg
+
+Uri: http://andrewlyon.co.uk/
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\index.htm
+Content Type: text/html
+
+Uri: http://andrewlyon.co.uk/author/admin/
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\author\admin\index.htm
+Content Type: text/html
+
+Uri: http://andrewlyon.co.uk/author/admin/feed/
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://andrewlyon.co.uk/comments/feed/
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://andrewlyon.co.uk/feed/
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/closedhand.cur
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\closedhand.cur
+Content Type: 
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/alert.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\alert.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-next-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\arrow-next-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-next-vertical-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\arrow-next-vertical-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-prev-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\arrow-prev-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-prev-vertical-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\arrow-prev-vertical-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/buttons.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\buttons.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/caption-bg.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\caption-bg.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/fullscreen-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\fullscreen-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/pause-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\pause-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/play-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\play-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\preloader.gif
+Content Type: image/gif
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/thumb-overlay-play.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/x-mark-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\x-mark-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/alert.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\alert.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-next-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\arrow-next-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-next-vertical-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\arrow-next-vertical-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-prev-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\arrow-prev-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-prev-vertical-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\arrow-prev-vertical-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/buttons.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\buttons.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/caption-bg.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\caption-bg.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/fullscreen-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\fullscreen-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/pause-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\pause-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/play-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\play-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\preloader.gif
+Content Type: image/gif
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/thumb-overlay-play.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/x-mark-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\x-mark-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/alert.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\alert.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/back-50.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\back-50.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/back-vertical-50.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\back-vertical-50.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/caption-bg.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\caption-bg.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/close-25.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\close-25.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/close-50.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\close-50.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/forward-50.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\forward-50.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/forward-vertical-50.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\forward-vertical-50.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/pause-25.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\pause-25.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/pause-50.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\pause-50.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/play-25.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\play-25.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/play-50.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\play-50.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\preloader.gif
+Content Type: image/gif
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/resize-25.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\resize-25.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/resize-50.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\resize-50.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/thumb-overlay-play.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/alert.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\alert.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/arrow-next-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\arrow-next-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/arrow-prev-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\arrow-prev-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/arrows_horizontal.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\arrows_horizontal.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/arrows_vertical.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\arrows_vertical.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/buttons.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\buttons.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/caption-bg.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\caption-bg.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/fullscreen-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\fullscreen-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/pause-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\pause-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/play-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\play-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\preloader.gif
+Content Type: image/gif
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/social-bg.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\social-bg.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/thumb-overlay-play.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/x-mark-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\x-mark-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/alert.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\alert.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-next-hover-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrow-next-hover-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-next-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrow-next-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-prev-hover-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrow-prev-hover-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-prev-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrow-prev-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrows_horizontal.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrows_horizontal.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrows_vertical.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrows_vertical.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/buttons.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\buttons.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/caption-bg.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\caption-bg.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/fullscreen-hover-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\fullscreen-hover-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/fullscreen-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\fullscreen-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/pause-hover-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\pause-hover-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/pause-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\pause-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/play-hover-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\play-hover-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/play-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\play-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\preloader.gif
+Content Type: image/gif
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/social-bg.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\social-bg.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/thumb-overlay-play.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/x-mark-hover-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\x-mark-hover-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/x-mark-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\x-mark-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/alert.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\parade-skin\alert.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/buttons.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\parade-skin\buttons.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/caption-bg.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\parade-skin\caption-bg.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/pattern.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\parade-skin\pattern.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\parade-skin\preloader.gif
+Content Type: image/gif
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/thumb-overlay-play.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\parade-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/alert.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\alert.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrow-next-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\arrow-next-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrow-prev-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\arrow-prev-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrows_horizontal.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\arrows_horizontal.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrows_vertical.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\arrows_vertical.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/buttons.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\buttons.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/caption-bg.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\caption-bg.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/fullscreen-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\fullscreen-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/pause-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\pause-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/play-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\play-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\preloader.gif
+Content Type: image/gif
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/thumb-overlay-play.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/x-mark-icon-64.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\x-mark-icon-64.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/delicious_16.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\social_icons\delicious_16.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/digg_16.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\social_icons\digg_16.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/facebook_16.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\social_icons\facebook_16.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/google_plus_16.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\social_icons\google_plus_16.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/reddit_16.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\social_icons\reddit_16.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/twitter_16.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\images\iLightbox\social_icons\twitter_16.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-animations.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\js\min\general\fusion-animations.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-column-bg-image.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\js\min\general\fusion-column-bg-image.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-column.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\js\min\general\fusion-column.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-container.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\js\min\general\fusion-container.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-content-boxes.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\js\min\general\fusion-content-boxes.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-countdown.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\js\min\general\fusion-countdown.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-counters-box.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\js\min\general\fusion-counters-box.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-counters-circle.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\js\min\general\fusion-counters-circle.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-events.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\js\min\general\fusion-events.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-flip-boxes.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\js\min\general\fusion-flip-boxes.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-gallery.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\js\min\general\fusion-gallery.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-modal.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\js\min\general\fusion-modal.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-progress.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\js\min\general\fusion-progress.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-tabs.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\js\min\general\fusion-tabs.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-testimonials.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\js\min\general\fusion-testimonials.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-title.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\js\min\general\fusion-title.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-toggles.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\js\min\general\fusion-toggles.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-video.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\js\min\general\fusion-video.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/js/min/library/jquery.countdown.js?ver=1.0
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\js\min\library\jquery.countdown.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/assets/js/min/library/jquery.countTo.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\assets\js\min\library\jquery.countTo.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/inc/lib/assets/fonts/fontawesome/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\inc\lib\assets\fonts\fontawesome\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/inc/lib/assets/fonts/fontawesome/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\inc\lib\assets\fonts\fontawesome\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/inc/lib/assets/fonts/fontawesome/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\inc\lib\assets\fonts\fontawesome\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/inc/lib/assets/fonts/fontawesome/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\inc\lib\assets\fonts\fontawesome\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/inc/lib/assets/fonts/fontawesome/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\inc\lib\assets\fonts\fontawesome\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-builder/inc/lib/assets/fonts/fontawesome/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-builder\inc\lib\assets\fonts\fontawesome\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-core/css/style.min.css?ver=4.9.5
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-core\css\style.min.css
+Content Type: text/css
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-core/js/min/avada-faqs.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-core\js\min\avada-faqs.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-core/js/min/avada-fusion-slider.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-core\js\min\avada-fusion-slider.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/plugins/fusion-core/js/min/avada-portfolio.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\plugins\fusion-core\js\min\avada-portfolio.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/assets/css/style.min.css?ver=5.4.2
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\assets\css\style.min.css
+Content Type: text/css
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/assets/images/shadow-bottom.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\assets\images\shadow-bottom.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/assets/images/shadow-top.png
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\assets\images\shadow-top.png
+Content Type: image/png
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-comments.js?ver=5.4.2
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\assets\min\js\general\avada-comments.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-drop-down.js?ver=5.4.2
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\assets\min\js\general\avada-drop-down.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-elastic-slider.js?ver=5.4.2
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\assets\min\js\general\avada-elastic-slider.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-general-footer.js?ver=5.4.2
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\assets\min\js\general\avada-general-footer.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-header.js?ver=5.4.2
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\assets\min\js\general\avada-header.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-menu.js?ver=5.4.2
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\assets\min\js\general\avada-menu.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-quantity.js?ver=5.4.2
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\assets\min\js\general\avada-quantity.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-scrollspy.js?ver=5.4.2
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\assets\min\js\general\avada-scrollspy.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-select.js?ver=5.4.2
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\assets\min\js\general\avada-select.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-sidebars.js?ver=5.4.2
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\assets\min\js\general\avada-sidebars.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-tabs-widget.js?ver=5.4.2
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\assets\min\js\general\avada-tabs-widget.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-to-top.js?ver=5.4.2
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\assets\min\js\general\avada-to-top.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/assets/min/js/general/avada-vertical-menu-widget.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\assets\min\js\general\avada-vertical-menu-widget.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/assets/min/js/library/bootstrap.scrollspy.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\assets\min\js\library\bootstrap.scrollspy.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/assets/min/js/library/jquery.elasticslider.js?ver=5.4.2
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\assets\min\js\library\jquery.elasticslider.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/assets/min/js/library/jquery.sticky-kit.js?ver=5.4.2
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\assets\min\js\library\jquery.sticky-kit.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/assets/min/js/library/jquery.toTop.js?ver=1.2
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\assets\min\js\library\jquery.toTop.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.eot
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\fonts\icomoon\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.eot?
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\fonts\icomoon\icomoon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.svg
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\fonts\icomoon\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.ttf
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\fonts\icomoon\icomoon.ttf
+Content Type: application/font-sfnt
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.woff
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\fonts\icomoon\icomoon.woff
+Content Type: application/font-woff
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-alert.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\general\fusion-alert.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-blog.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\general\fusion-blog.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-button.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\general\fusion-button.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-carousel.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\general\fusion-carousel.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-equal-heights.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\general\fusion-equal-heights.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-flexslider.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\general\fusion-flexslider.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-general-global.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\general\fusion-general-global.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-google-map.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\general\fusion-google-map.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-ie1011.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\general\fusion-ie1011.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-lightbox.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\general\fusion-lightbox.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-popover.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\general\fusion-popover.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-responsive-typography.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\general\fusion-responsive-typography.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-scroll-to-anchor.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\general\fusion-scroll-to-anchor.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-sharing-box.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\general\fusion-sharing-box.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-tooltip.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\general\fusion-tooltip.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-waypoints.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\general\fusion-waypoints.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.collapse.js?ver=3.1.1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\bootstrap.collapse.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.modal.js?ver=3.1.1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\bootstrap.modal.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.popover.js?ver=3.3.5
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\bootstrap.popover.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.tab.js?ver=3.1.1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\bootstrap.tab.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.tooltip.js?ver=3.3.5
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\bootstrap.tooltip.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.transition.js?ver=3.3.6
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\bootstrap.transition.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/cssua.js?ver=2.1.28
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\cssua.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/Froogaloop.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\Froogaloop.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-parallax.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\fusion-parallax.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-video-bg.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\fusion-video-bg.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-video-general.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\fusion-video-general.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/imagesLoaded.js?ver=3.1.8
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\imagesLoaded.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/isotope.js?ver=3.0.4
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\isotope.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.appear.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\jquery.appear.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.carouFredSel.js?ver=6.2.1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\jquery.carouFredSel.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.cycle.js?ver=3.0.3
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\jquery.cycle.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.easing.js?ver=1.3
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\jquery.easing.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.easyPieChart.js?ver=2.1.7
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\jquery.easyPieChart.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fade.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\jquery.fade.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fitvids.js?ver=1.1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\jquery.fitvids.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.flexslider.js?ver=2.2.2
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\jquery.flexslider.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fusion_maps.js?ver=2.2.2
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\jquery.fusion_maps.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.hoverflow.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\jquery.hoverflow.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.hoverintent.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\jquery.hoverintent.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.ilightbox.js?ver=2.2.3
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\jquery.ilightbox.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.infinitescroll.js?ver=2.1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\jquery.infinitescroll.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.mousewheel.js?ver=3.0.6
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\jquery.mousewheel.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.placeholder.js?ver=2.0.7
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\jquery.placeholder.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.requestAnimationFrame.js?ver=1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\jquery.requestAnimationFrame.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.touchSwipe.js?ver=1.6.6
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\jquery.touchSwipe.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.waypoints.js?ver=2.0.3
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\jquery.waypoints.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/modernizr.js?ver=3.3.1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\modernizr.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/themes/Avada/includes/lib/assets/min/js/library/packery.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\themes\Avada\includes\lib\assets\min\js\library\packery.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-content/uploads/2018/04/banner01.jpg
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\uploads\2018\04\banner01.jpg
+Content Type: image/jpeg
+
+Uri: http://andrewlyon.co.uk/wp-content/uploads/2018/04/image02.jpg
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\uploads\2018\04\image02.jpg
+Content Type: image/jpeg
+
+Uri: http://andrewlyon.co.uk/wp-content/uploads/2018/04/logo-hair-beauty-large.jpg
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\uploads\2018\04\logo-hair-beauty-large.jpg
+Content Type: image/jpeg
+
+Uri: http://andrewlyon.co.uk/wp-content/uploads/2018/04/logo-hair-beauty-regular.jpg
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\uploads\2018\04\logo-hair-beauty-regular.jpg
+Content Type: image/jpeg
+
+Uri: http://andrewlyon.co.uk/wp-content/uploads/2018/07/image06.jpg
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\uploads\2018\07\image06.jpg
+Content Type: image/jpeg
+
+Uri: http://andrewlyon.co.uk/wp-content/uploads/2018/07/image07.jpg
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-content\uploads\2018\07\image07.jpg
+Content Type: image/jpeg
+
+Uri: http://andrewlyon.co.uk/wp-includes/js/comment-reply.min.js?ver=4.9.5
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-includes/js/wp-embed.min.js?ver=4.9.5
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: http://andrewlyon.co.uk/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: http://andrewlyon.co.uk/wp-json/
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://andrewlyon.co.uk/wp-json/oembed/1.0/embed?url=http:%2F%2Fandrewlyon.co.uk%2F
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://andrewlyon.co.uk/wp-json/oembed/1.0/embed?url=http:%2F%2Fandrewlyon.co.uk%2F&format=xml
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://andrewlyon.co.uk/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\xmlrpc.php
+Content Type: text/xml
+
+Uri: http://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\andrewlyon.co.uk\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+Content Type: font/ttf
+
